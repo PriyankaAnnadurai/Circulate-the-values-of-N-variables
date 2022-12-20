@@ -19,6 +19,9 @@ Print both the values it would be circulated
 End the program
 ## Program:
 ```python
+#Program to circulate N values.
+#Developed by: Priyanka.A
+#RegisterNumber: 22008829
 def circulate():
     circul = l[n:]+l[:n]
     print("After circulating the values are:",circul)
